@@ -1,0 +1,6 @@
+socket.o: socket.c socket.h
+target.o: target.c fonction.h
+requete.o: requete.c fonction.h
+reponse.o: reponse.c fonction.h
+signal.o: signal.c fonction.h
+main.o: main.c socket.h fonction.h

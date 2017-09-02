@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>Page 1</title>
+	</head>
+	<body>
+	  <h1>Page 1</h1>
+	  <p>Bienvenue sur ma premiere page</p>
+	   <a href="page1.html">Page 2</a> 
+	</body>
+</html>

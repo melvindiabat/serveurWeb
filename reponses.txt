@@ -1,0 +1,14 @@
+Chapitre 3 : Serveur TCP:
+
+	 Q1) On ne peut pas relancer toute suite (attendre 2 min) le serveur (problème avec l'appel à la commande bind).
+	 Q2) Pas de problème quand on ajoute un delai.
+	 Q3) La commande echoue car le serveur ne gere pas l'ipv6.
+	 Q4) On peut lancer deux clients en meme temps (creation d'un nouveau processus à chaque client). Il se passe la meme chose pour les deux.
+
+Chapitre 5: Requete Get:
+
+	 Q3)GET / HTTP/1.1
+	 	User-Agent: curl/7.38.0
+		Host: localhost:8080
+		Accept: */*
+	Q4) GET / HTTP/1.1  => GET: methode, /: la ressource,  HTTP: la version 
